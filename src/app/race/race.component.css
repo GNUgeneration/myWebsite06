@@ -35,13 +35,19 @@
   font-size: 18px;
   text-align: center;
   width: 120px;
-}.race-info {
+}
+
+.race-info {
   display: table-cell;
   vertical-align: middle;
 }
 
 .race-info h3 {
   margin: 0 0;
+}
+
+.race-info h3 a {
+  color: white;
 }
 
 .race-info td:last-child {
